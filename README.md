@@ -1,1 +1,1 @@
-### Thumb insert utility
+### Thumbnail insert utility
